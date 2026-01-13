@@ -1,0 +1,11 @@
+Updating LoFi Granulator Firmware:
+
+1. Download the latest .bin from GitHub, https://github.com/algomusic/lofi-granulator
+2. In a Chromium browser go to ESPConnect site, https://thelastoutpostworkshop.github.io/microcontroller_devkit/espconnect/
+3. Connect the Granulator to an online computer via USB
+4. In ESPConnect, click Connect and choose the JTAG/Serial connection from the popup dialog.
+5. Click Flash Tools in eSportsConnect (left hand column), scroll to Flash Firmware
+6. Drag the downloaded .bin file onto the Firmware Binary area of ESPConnect
+7. In the Recommended Offset dropdown, choose App0 - 0x10000
+8. Click the Flash Firmware button, and confirm Flash
+9. The software will upload and the Granulator will restart.
