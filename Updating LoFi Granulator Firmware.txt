@@ -1,6 +1,6 @@
 Updating LoFi Granulator Firmware:
 
-1. Download the latest .bin from GitHub, https://github.com/algomusic/lofi-granulator
+1. Download the latest .bin file from GitHub, https://github.com/algomusic/lofi-granulator
 2. In a Chromium browser go to the ESPConnect site, https://thelastoutpostworkshop.github.io/microcontroller_devkit/espconnect/
 3. Connect the LoFi Granulator to an online computer via USB
 4. In ESPConnect, click Connect and choose the JTAG/Serial connection from the popup dialog.
